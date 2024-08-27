@@ -2,6 +2,7 @@
 AI PROJECT CYCLE
 
 NOTE TO THE READER: I have tried to explain all the stages of the project in brief and in layman terms. Sometimes however, to explain my reasoning, I have given a bit of background about the subject, so kindly bear with me!
+The attempt 2 file is merely a final display of the output, the attempt1 file is the outline for the project and upon careful examination can reveal the intricacies of the project!
 
 1. Any AI Project goes through the following domains:
 
